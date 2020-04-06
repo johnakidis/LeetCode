@@ -35,7 +35,7 @@ class Solution {
                 if(checked.containsKey(j))
                     continue;
                 String word_2=strs[j];
-                if((match(word,word_2))&&(match(word_2,word))){
+                if(match(word,word_2)){
                     temp.add(word_2);
                     checked.put(j,j);
                 }   
