@@ -29,3 +29,8 @@ https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
  ( https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3288/ ) <br/> <br/>
 ![Problem](https://github.com/johnakidis/LeetCode/blob/master/images/april_6th_e.png)
 ![Solution](https://github.com/johnakidis/LeetCode/blob/master/images/april_6th_s.png) <br/> <br/>
+
+<br/>April 7th: Counting Elements
+ ( https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3289/ ) <br/> <br/>
+![Problem](https://github.com/johnakidis/LeetCode/blob/master/images/april_7th_e.png)
+![Solution](https://github.com/johnakidis/LeetCode/blob/master/images/april_7th_s.png) <br/> <br/>
