@@ -8,3 +8,8 @@ https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
  ( https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3290/ ) <br/> <br/>
 ![Problem](https://github.com/johnakidis/LeetCode/blob/master/images/april_8th_e.png)
 ![Solution](https://github.com/johnakidis/LeetCode/blob/master/images/april_8th_s.png) <br/> <br/>
+
+<br/>April 9th: Backspace String Compare
+ ( https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3291/ ) <br/> <br/>
+![Problem](https://github.com/johnakidis/LeetCode/blob/master/images/april_9th_e.png)
+![Solution](https://github.com/johnakidis/LeetCode/blob/master/images/april_9th_s.png) <br/> <br/>
