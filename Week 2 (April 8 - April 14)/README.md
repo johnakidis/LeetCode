@@ -13,3 +13,8 @@ https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/
  ( https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3291/ ) <br/> <br/>
 ![Problem](https://github.com/johnakidis/LeetCode/blob/master/images/april_9th_e.png)
 ![Solution](https://github.com/johnakidis/LeetCode/blob/master/images/april_9th_s.png) <br/> <br/>
+
+<br/>April 10th: Min Stack
+ ( https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3292/ ) <br/> <br/>
+![Problem](https://github.com/johnakidis/LeetCode/blob/master/images/april_10th_e.png)
+![Solution](https://github.com/johnakidis/LeetCode/blob/master/images/april_10th_s.png) <br/> <br/>
